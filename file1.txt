@@ -14,5 +14,6 @@
 14. git remote -v (Cek Remote)
 15. git push -u origin main (Mengirim Perubahan) (u = upstream, main = branch)
 16. git pull (Menerima Perubahan)
+17. git clone <url> (Mengkloning Repository)
 
 Perubahan file 
