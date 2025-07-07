@@ -1,0 +1,5 @@
+1. Git init (Awal Bikin Repository)
+2. Git status (Cek Status)
+3. Git add (Tambah File)
+4. Git commit (Simpan Perubahan)
+5. Git log (Cek Perubahan)
