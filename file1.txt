@@ -4,5 +4,10 @@
 4. Git commit -m "Menambahkan file1.txt" (Simpan Perubahan)
 5. Git log (Cek Perubahan)
 6. Git add . (Tambah Semua File)
+7. Git clean -f (Hapus File)
+8. Git restore *namafile* (Mengembalikan File)
+9. Git restore --staged *namafile* (Mengembalikan File)
+10. Git log --oneline (Cek Perubahan)
+11. Create .gitignore (Mengabaikan File)
 
-Perubahan file 1
+Perubahan file 
